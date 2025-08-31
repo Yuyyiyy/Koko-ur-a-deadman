@@ -33,8 +33,7 @@ end
 
 -- GUI setup
 local screenGui = Instance.new("ScreenGui", playerGui)
-screenGui.Name = "PsychoHAHub
-koko ur a dead man"
+screenGui.Name = "PsychoHAHub"
 screenGui.ResetOnSpawn = false
 
 -- Main window
@@ -54,7 +53,7 @@ frameStroke.Color = Color3.fromRGB(184,134,11)
 
 -- Title
 local title = Instance.new("TextLabel", mainFrame)
-title.Text = "🤣Psycho HA Hub stupid koko🤣"
+title.Text = "🤣Psycho HA Hub koko ur a deadman🤣"
 title.Font = Enum.Font.SourceSansBold
 title.TextSize = 42
 title.TextColor3 = Color3.fromRGB(255,215,0)
